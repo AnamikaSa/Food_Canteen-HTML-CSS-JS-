@@ -1,0 +1,172 @@
+.links
+{
+width: 966px;
+height: 100px;
+float: top;
+float: left;
+
+}
+.clock {
+    position: absolute;
+    top: 4%;
+    right: 3%;
+    color: #D8BFD8;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial;
+    letter-spacing: 3px;
+  text-shadow: 10px 5px 10px white;
+   
+
+
+}
+#home{
+     float: left;
+	width: 100px;
+	height: 50px;
+	text-align: center;	
+	color: white;
+	font-family: calibri;
+	font-size: 18pt;
+	margin-top: 5%;
+	margin-left: 4%;
+	opacity: 0.9;
+}
+#menu{
+     float: left;
+	width: 100px;
+	height: 50px;
+	text-align: center;	
+	color: white;
+	font-family: calibri;
+	font-size: 18pt;
+	margin-top: 5%;
+	margin-left: 2%;
+	opacity: 0.9;
+}
+#contact{
+     float: left;
+	width: 100px;
+	height: 50px;
+	text-align: center;	
+	color: white;
+	font-family: Arial;
+	font-size: 18pt;
+	margin-top: 5%;
+	margin-left: 4%;
+	opacity: 0.9;
+}
+#sign{
+     float: left;
+	width: 100px;
+	height: 50px;
+	text-align: center;	
+	color: white;
+	font-family: calibri;
+	font-size: 18pt;
+	margin-top: 5%;
+	margin-left: 5%;
+	opacity: 0.9;
+}
+a{
+	color: white;
+	text-align: center;
+	font-size: 70%;
+	font-family: "arial";
+	text-decoration: none;
+	opacity: 10;
+}
+a:hover{
+color: red;
+ text-decoration: underline;
+}
+
+.img 
+{
+  background: url(food.jpg) no-repeat;
+  height: 100vh;
+ background-attachment: fixed;
+  background-size: cover;
+ position: relative;
+  opacity :1;
+}
+.para
+{
+color: white;
+position :absolute;
+top: 40%;
+width:100%;
+text-align: center;
+font-size:30px;
+font-style: oblique;
+text-shadow: 6px 5px 10px #000080;
+}
+.quotes
+{
+   color: white;
+    position: absolute;
+    bottom: 70px;
+    right:16px;
+    font-size:20px;
+   font-weight: bold;
+}
+.img1
+{
+  background: url(food3.jpg) no-repeat;
+  height: 100vh;
+ background-attachment: fixed;
+  background-size: cover;
+ position: relative;
+  opacity :1;
+}
+#menu1{
+  color: white;
+  font-weight: bold;
+   font-size: 20px;
+  background: #A0522D;
+  opacity :0.7;
+  width: 500px;
+  height: 700px;
+  margin-top: 11%;
+  margin-left: 3%;
+}
+#menu2{
+  color: white;
+  font-weight: bold;
+   font-size: 20px;
+  background: #A0522D;
+  opacity :0.7;
+  width: 500px;
+  height: 700px;
+  margin-top: -55%;
+  float: right;
+   margin-right: 3%;
+  
+}
+
+.img2{
+
+  background: url(foo.jpg) no-repeat;
+  height: 100vh;
+  background-size: cover;
+ position: relative;
+  opacity :1;
+}
+#Con_list{
+
+color: white;
+  font-weight: bold;
+   font-size: 70%;
+  background: black;
+  opacity :0.7;
+  width: 250px;
+  height: 390px;
+  margin-top: 23%;
+  float: right;
+  margin-right: 5%;
+}
+
+
+
+
+
